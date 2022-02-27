@@ -3,6 +3,9 @@
 <a href="https://github.com/Neeraj2K18/rust-practice/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Neeraj2K18/rust-practice"></a>
 [![Rust](https://github.com/Neeraj2K18/rust-practice/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/Neeraj2K18/rust-practice/actions/workflows/rust.yml)
 [![pages-build-deployment](https://github.com/Neeraj2K18/rust-practice/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/Neeraj2K18/rust-practice/actions/workflows/pages/pages-build-deployment)
+
+[![cargo-docs](https://img.shields.io/badge/cargo--docs-deployed-yellow.svg?branch=main)](https://neeraj2k18.github.io/rust-practice/docs/doxygen-html/doc/rust_practice/index.html)
+[![code-coverage](https://img.shields.io/badge/code--coverage-deployed-lightgrey.svg?branch=main)](https://neeraj2k18.github.io/rust-practice/docs/gcov-html/index.html)
 ---
 # rust-practice
 
@@ -70,8 +73,3 @@ Use short lowercase names at least for the top-level files and folders except `L
 ```bash
 tree -L 1
 ```
-For more examples, please refer to the [Doxygen documentation](https://neeraj2k18.github.io/rust-practice/docs/doxygen-html/doc/rust_practice/index.html) and for [Code coverage](https://neeraj2k18.github.io/rust-practice/docs/gcov-html/index.html) 
-
-<!-- LICENSE -->
-### License
-Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See [LICENSE](LICENSE) for more information.
