@@ -1,3 +1,7 @@
+<a href="https://github.com/Neeraj2K18/rust-practice/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Neeraj2K18/rust-practice"></a>
+<a href="https://github.com/Neeraj2K18/rust-practice/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Neeraj2K18/rust-practice"></a>
+<a href="https://github.com/Neeraj2K18/rust-practice/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Neeraj2K18/rust-practice"></a>
+---
 # rust-practice
 
 Rust Programming Tutorials [rust-lang official website](https://www.rust-lang.org/)
